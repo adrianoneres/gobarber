@@ -1,4 +1,12 @@
+## IDE Specifics
+.idea/
+
+## Node.js
 node_modules/
+
+## Environment
 .env
+
+## Project specifics
 tmp/uploads/*
 !tmp/uploads/.gitkeep
