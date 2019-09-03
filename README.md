@@ -11,7 +11,7 @@ It's the backend implementation. To reach the other **GoBarber** projects go to:
 
 
 
-## Build details:
+## Build:
 
 1. Clone **GoBarber**
 2. Navigate to the application directory and run `yarn` to make sure you have all the necessary to run it:
